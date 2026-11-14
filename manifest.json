@@ -1,0 +1,17 @@
+{
+  "name": "Boom Ragdoll",
+  "short_name": "Boom Ragdoll",
+  "description": "Swing the arm, hit PERFECT and launch a ragdoll crash-test dummy across the sky.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#6EC1F2",
+  "theme_color": "#6EC1F2",
+  "categories": ["games"],
+  "ms_start_compatible": true,
+  "icons": [
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/wide-1920x1080.png", "sizes": "1920x1080", "type": "image/png", "purpose": "any" }
+  ]
+}
